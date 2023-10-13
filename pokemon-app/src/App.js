@@ -35,6 +35,7 @@ function App() {
   }
   
   // console.log(pokemonData);
+  
 
   const handleNextPage = async () => {
     setLoading(true);
